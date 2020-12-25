@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="lyh_weather" />
+    <version value="2" />
+    <list>
+    </list>
+<list>
+<mapping class="com.example.wearther.db.Province" />
+<mapping class="com.example.wearther.db.County" />
+<mapping class="com.example.wearther.db.City" />
+</list>
+    </litepal>
